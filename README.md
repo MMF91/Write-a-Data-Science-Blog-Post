@@ -17,7 +17,7 @@ For this project, I was interestested in using No-show Appointment data sets to 
 - Write a Data Science Blog Post.ipynb: Jupyter notebook that showcase work related to the above questions.
 
 ### Results:
-- Appointments are schduled at the begging of the week more than rest of the week. There is barely any appointments in the weekend.¶
+- Appointments are schduled at the begging of the week more than rest of the week. There is barely any appointments in the weekend.
 - No-show rate is almost the same on all the days: 79%
 - Patients with no scholarship tend to not show to the appointment by 88%
 - Female patients tend to not show to the appointment by 65%
